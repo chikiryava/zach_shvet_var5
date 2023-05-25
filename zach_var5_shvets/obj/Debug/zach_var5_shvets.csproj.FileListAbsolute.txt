@@ -1,0 +1,10 @@
+C:\Users\305-9\Desktop\zach_var5_shvets\bin\Debug\zach_var5_shvets.exe.config
+C:\Users\305-9\Desktop\zach_var5_shvets\bin\Debug\zach_var5_shvets.exe
+C:\Users\305-9\Desktop\zach_var5_shvets\bin\Debug\zach_var5_shvets.pdb
+C:\Users\305-9\Desktop\zach_var5_shvets\obj\Debug\zach_var5_shvets.csproj.AssemblyReference.cache
+C:\Users\305-9\Desktop\zach_var5_shvets\obj\Debug\zach_var5_shvets.Form1.resources
+C:\Users\305-9\Desktop\zach_var5_shvets\obj\Debug\zach_var5_shvets.Properties.Resources.resources
+C:\Users\305-9\Desktop\zach_var5_shvets\obj\Debug\zach_var5_shvets.csproj.GenerateResource.cache
+C:\Users\305-9\Desktop\zach_var5_shvets\obj\Debug\zach_var5_shvets.csproj.CoreCompileInputs.cache
+C:\Users\305-9\Desktop\zach_var5_shvets\obj\Debug\zach_var5_shvets.exe
+C:\Users\305-9\Desktop\zach_var5_shvets\obj\Debug\zach_var5_shvets.pdb
